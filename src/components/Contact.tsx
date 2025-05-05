@@ -22,7 +22,7 @@ export default function Contact() {
               </li>
               <li className="flex items-start">
                 <i className="fas fa-envelope text-indigo-500 mt-1 mr-3"></i>
-                <span>ashishlamichhane890@gmail.com</span>
+                <span>ashishlamichhane891@gmail.com</span>
               </li>
             </ul>
             

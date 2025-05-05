@@ -15,13 +15,25 @@ export default function Experience() {
                 <i className="fas fa-laptop-code text-indigo-600"></i>
               </div>
               <div>
+                <h3 className="text-xl font-semibold">Co-Founder and CTO </h3>
+                <p className="text-indigo-600 mb-2">Tulsi Foods and Beverage Pvt. Ltd. (Present) </p>
+                
+              </div>
+            </div>
+          </div>
+          <div className="max-w-3xl mx-auto space-y-8">
+          <div className="bg-white p-6 rounded-lg shadow-md card-hover transition">
+            <div className="flex items-start">
+              <div className="bg-indigo-100 p-3 rounded-full mr-4">
+                <i className="fas fa-laptop-code text-indigo-600"></i>
+              </div>
+              <div>
                 <h3 className="text-xl font-semibold">Electronic Engineer</h3>
                 <p className="text-indigo-600 mb-2">Yarsa Tech Pvt. Ltd. (July 2023 - Present)</p>
                 <p className="text-gray-600">Working on electronic engineering projects and solutions.</p>
               </div>
             </div>
           </div>
-          
           <div className="bg-white p-6 rounded-lg shadow-md card-hover transition">
             <div className="flex items-start">
               <div className="bg-indigo-100 p-3 rounded-full mr-4">

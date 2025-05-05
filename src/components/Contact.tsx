@@ -14,31 +14,28 @@ export default function Contact() {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <i className="fas fa-map-marker-alt text-indigo-500 mt-1 mr-3"></i>
-                <span>Pokhara-14, Kaski, Nepal</span>
+                <span>Kushma-12, Parbat, Nepal</span>
               </li>
-              <li className="flex items-start">
-                <i className="fas fa-phone-alt text-indigo-500 mt-1 mr-3"></i>
-                <span>+977 9846881000</span>
-              </li>
+              
               <li className="flex items-start">
                 <i className="fas fa-envelope text-indigo-500 mt-1 mr-3"></i>
-                <span>ashishlamichhane891@gmail.com</span>
+                <span>ashishlamichhane890@gmail.com</span>
               </li>
             </ul>
             
             <div className="mt-8">
               <h3 className="text-xl font-semibold mb-4 text-indigo-600">Connect With Me</h3>
               <div className="flex space-x-4">
-                <a href="#" className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center hover:bg-indigo-200 transition">
+                <a href="https://www.linkedin.com/in/ashish-lamichhane/" className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center hover:bg-indigo-200 transition">
                   <i className="fab fa-linkedin-in"></i>
                 </a>
-                <a href="#" className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center hover:bg-indigo-200 transition">
+                <a href="https://www.facebook.com/ashish.lamichhane.90/" className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center hover:bg-indigo-200 transition">
                   <i className="fab fa-facebook-f"></i>
                 </a>
-                <a href="#" className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center hover:bg-indigo-200 transition">
+                <a href="https://x.com/AshishLami890" className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center hover:bg-indigo-200 transition">
                   <i className="fab fa-twitter"></i>
                 </a>
-                <a href="#" className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center hover:bg-indigo-200 transition">
+                <a href="https://github.com/Aashish231" className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center hover:bg-indigo-200 transition">
                   <i className="fab fa-github"></i>
                 </a>
               </div>

@@ -12,10 +12,7 @@ export default function About() {
           <div>
             <h3 className="text-xl font-semibold mb-4 text-indigo-600">Personal Information</h3>
             <ul className="space-y-2">
-              <li className="flex items-start">
-                <i className="fas fa-birthday-cake text-indigo-500 mt-1 mr-3"></i>
-                <span><strong>Date of Birth:</strong> 7 April 1999</span>
-              </li>
+             
               <li className="flex items-start">
                 <i className="fas fa-passport text-indigo-500 mt-1 mr-3"></i>
                 <span><strong>Nationality:</strong> Nepali</span>
@@ -28,10 +25,7 @@ export default function About() {
                 <i className="fas fa-envelope text-indigo-500 mt-1 mr-3"></i>
                 <span><strong>Email:</strong> ashishlamichhane890@gmail.com</span>
               </li>
-              <li className="flex items-start">
-                <i className="fas fa-phone-alt text-indigo-500 mt-1 mr-3"></i>
-                <span><strong>Phone:</strong> 9846881000, 9804152239</span>
-              </li>
+              
             </ul>
           </div>
           
